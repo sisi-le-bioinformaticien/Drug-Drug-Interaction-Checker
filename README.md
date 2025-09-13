@@ -15,17 +15,20 @@ A tool to detect and analyze potential interactions between drugs. Useful for cl
 
 ## Screenshots
 
-Here are some example screenshots of the tool in action:
+*App main interface*
 
 ![Screenshot 1](Screenshots/home.JPG)  
-*Main interface showing drug input form*
 
-![Screenshot 2](Screenshots/Danger.JPG)  
 *Interaction results summary*
 
+![Screenshot 2](Screenshots/Danger.JPG)  
+
+*Advanced Drug information*
+
 ![Screenshot 3](Screenshots/Drug_info.JPG)  
-*Drug information*
+
+*Lookup over 1000+ interractions and drugs*
 
 ![Screenshot 4](Screenshots/Lookup.JPG)  
-*Lookup over 1000+ interractions and drugs*
+
 
