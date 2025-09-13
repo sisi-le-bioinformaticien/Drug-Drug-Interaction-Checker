@@ -1,0 +1,10 @@
+Drug list:
+- Tolterodine
+- Nicotine
+- Caffeine
+- Doxycycline
+
+Dangerous interactions:
+DANGER: dangerous interaction detected Tolterodine - Caffeine
+DANGER: dangerous interaction detected Tolterodine - Doxycycline
+
