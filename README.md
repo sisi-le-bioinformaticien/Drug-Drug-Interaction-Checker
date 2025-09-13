@@ -13,19 +13,19 @@ A tool to detect and analyze potential interactions between drugs. Useful for cl
 - Add alarms for recurrent drug intake
 
 
-## 🖼️ Screenshots
+## Screenshots
 
 Here are some example screenshots of the tool in action:
 
-![Screenshot 1](Screenshots/home.png)  
+![Screenshot 1](Screenshots/home.jpg)  
 *Main interface showing drug input form*
 
-![Screenshot 2](Screenshots/Danger.png)  
+![Screenshot 2](Screenshots/Danger.jpg)  
 *Interaction results summary*
 
-![Screenshot 3](Screenshots/Drug_info.png)  
+![Screenshot 3](Screenshots/Drug_info.jpg)  
 *Drug information*
 
-![Screenshot 4](Screenshots/Lookup.png)  
+![Screenshot 4](Screenshots/Lookup.jpg)  
 *Lookup over 1000+ interractions and drugs*
 
